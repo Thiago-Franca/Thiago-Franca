@@ -48,5 +48,6 @@ Tecnologias Front-End
   Infra
 </h3>
 <div style="display: inline_block;">  
-    <img align="center" alt="CJ-Docker" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">  
+    <img align="center" alt="CJ-Docker" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="CJ-Vagrant" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">  
 </div>
