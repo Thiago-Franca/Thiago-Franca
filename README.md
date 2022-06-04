@@ -26,7 +26,6 @@ Tecnologias Front-End
   <img align="center" alt="CJ-Python" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Arduino" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Lua" height="39" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
  </div>
 <br>
 <h3>
