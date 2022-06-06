@@ -1,6 +1,6 @@
 ### Olá, eu sou Thiago França 👋
 
-- 🔭 Aualmente trabalho com DevOps e Automação
+- 🔭 Aualmente trabalho com DevOps e JavaScript
 - 🌱 Estudando Python e JS
 
 ##
